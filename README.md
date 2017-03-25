@@ -1,6 +1,6 @@
 # teste-eicon
 
-API criado com Spring-Boot.
+API criado com Spring-Boot + MySQL5
 Na subida do serviço, é criado uma página inicial com exemplo dos formatos XML e JSON que são utilizados nesse projeto.
 
 link padrão: localhost:8080
