@@ -1,0 +1,12 @@
+<orders>
+	<order>
+		<controlNumber>999</controlNumber>
+		<dateRegister>2017-03-24</dateRegister>
+		<productName>Um produto qualquer</productName>
+		<productPrice>5.00</productPrice>
+		<quantity>5</quantity>
+		<client>
+			<codClient>2</codClient>
+		</client>
+	</order>
+</orders>
